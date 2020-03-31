@@ -1,9 +1,14 @@
 ### About
-  A flipper plugin supported inspect **redux** state and action logs for **react-native**
+  A **Redux Middware** support connect with **Flipper debug**
+
   Dependencies:
    + react-native-flipper
    + [rn-redux-middleware-flipper](https://github.com/zrg-team/rn-redux-middleware-flipper)
    + [flipper-plugin-rn-redux-inspector](https://github.com/zrg-team/flipper-rn-redux-inspector-plugin)
+   
+   ![demo](https://github.com/zrg-team/flipper-rn-redux-inspector-plugin/blob/master/images/demo.png?raw=true "Demo plugin")
+
+
 ### Installation
 #### 1. install flipper redux middleware to your application
 
